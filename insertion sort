@@ -4,19 +4,19 @@ Proje 1 [Ömür KÖKEN]
 1-)Verilen dizinin sort türüne göre aşamaları nedir ?
 
 
-1. Stage = [22,27,16,2,18,6]
-2. Stage = [16,22,27,2,18,6]
-3. Stage = [2,16,22,27,18,6]
-4. Stage = [2,16,18,22,27,6]
-5. Stage = [2,6,16,18,22,27]
+1. Aşama = [22,27,16,2,18,6]
+2. Aşama = [16,22,27,2,18,6]
+3. Aşama = [2,16,22,27,18,6]
+4. Aşama = [2,16,18,22,27,6]
+5. Aşama = [2,6,16,18,22,27]
 
 2-)Verilen dizinin Big-O gösterimi nasıl yapılır ?
 
        cevap=O(n^2)
 
-3-)Time Complexity: Average case: Aradığımız sayının ortada olması,
-Worst case: Aradığımız sayının sonda olması,
-Best case: Aradığımız sayının dizinin en başında olması.
+3-)Time Complexity: Average case: Aradığımız sayının ortada olması 16,
+Worst case: Aradığımız sayının sonda olması 6,
+Best case: Aradığımız sayının dizinin en başında olması 22.
 
 4-)Dizi sıralayınız ve 18 sayısının hangi case kapsamına girdiğini bulunuz?
 Average Case
